@@ -1,0 +1,81 @@
+.Cart_cointainer{
+    width: 90vw;
+    height: 100vh;
+    background-color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.Child_cointainer{
+    width: 100%;
+    display: flex;
+}
+.left_child_div{
+    width: 67%;
+    margin-top: 8%;
+}
+.YOUR_CART_CLASS{
+    margin-bottom: 50px;
+}
+.rigth_child_div{
+    width: 25%;
+    border: 5px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.Total_amount_spantag{
+    font-size: medium;
+    font-weight: 600;
+}
+.dummy_line_div{
+    width: 100%;
+    border: 3px solid black;
+    margin-top: 20px;
+}
+.main_div{
+    width: 100%;
+    background-color: white;
+}
+.sub_div{
+    width: 60%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    display: flex;
+    background-color: white;
+}
+
+.image_class{
+    width: 80%;
+}
+.dummy{
+    width: 100%;
+    border: 2px solid red;
+    margin-top: 10px;
+}
+.subdiv_one{
+    width: 40%;
+}
+.subdiv_two{
+    width: 60%;
+}
+.productname_class{
+    font-size: larger;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.productprice_class{
+    font-size: larger;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.button_remove{
+    background-color: orange;
+    color: black;
+    font-weight: bold;
+    padding: 5px 10px 5px 10px;
+}
+.Total_amount_ptag{
+    font-weight: 400;
+}
