@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/small-amazon/static/css/main.6a567dca.css",
+    "main.js": "/small-amazon/static/js/main.48ab1c5a.js",
+    "static/js/787.8302b76b.chunk.js": "/small-amazon/static/js/787.8302b76b.chunk.js",
+    "static/media/Laptop.jpg": "/small-amazon/static/media/Laptop.a4a763c204475a8dbf9b.jpg",
+    "static/media/TV.jpg": "/small-amazon/static/media/TV.f3ad7a067ec66a2719da.jpg",
+    "static/media/fridge.jpg": "/small-amazon/static/media/fridge.282933592c77c41a05c3.jpg",
+    "static/media/toycar.webp": "/small-amazon/static/media/toycar.613ddcbc61d5a0671f32.webp",
+    "static/media/amazonbackgrond.png": "/small-amazon/static/media/amazonbackgrond.c9b922110c2311617e6f.png",
+    "static/media/Mobile.jpg": "/small-amazon/static/media/Mobile.874e39fb2c7223d94c50.jpg",
+    "index.html": "/small-amazon/index.html",
+    "static/media/Searchicon.svg": "/small-amazon/static/media/Searchicon.f0ccd6ad23b34c7f2570745937c69ca4.svg",
+    "main.6a567dca.css.map": "/small-amazon/static/css/main.6a567dca.css.map",
+    "main.48ab1c5a.js.map": "/small-amazon/static/js/main.48ab1c5a.js.map",
+    "787.8302b76b.chunk.js.map": "/small-amazon/static/js/787.8302b76b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a567dca.css",
+    "static/js/main.48ab1c5a.js"
+  ]
+}
